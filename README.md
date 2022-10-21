@@ -4,8 +4,6 @@ week 1 challenge
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - In this project we had a starter code that was entirely separated by DIVs
 - Semantic HTML was added to give the document structure and have a logical flow
 - Images were given ALT attributes to help enable accessablity and meet ADA requirements
